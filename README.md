@@ -1,2 +1,5 @@
 # BTM_TOKEN
-BTM_TOKEN
+
+TOKEN ADDRESS : 0x685417d9f6b3b40e27b65c6332dff0bdb56e2475
+
+https://bscscan.com/token/0x685417d9f6b3b40e27b65c6332dff0bdb56e2475
